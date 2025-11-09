@@ -1,4 +1,5 @@
 /* Custom Styles */
+body { background-color: hotpink !important; }
 
 .category-badge {
     display: inline-flex;
